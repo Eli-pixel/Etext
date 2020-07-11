@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Eli-pixel/Etext)](https://repl.it/github/Eli-pixel/Etext)
 # Etext
 THIS IS IN EARLY DEVELOPMENT ALSO I STARTED THIS WHEN I WAS 6 SO DONT JUDGE
 
